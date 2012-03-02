@@ -165,10 +165,6 @@ namespace OpenTok
 
     public class SessionPropertyConstants
     {
-        public const string ECHOSUPRESSION_ENABLED = "echoSuppression.enabled";
-        public const string MULTIPLEXER_NUMOUTPUTSTREAMS = "multiplexer.numOutputStreams";
-        public const string MULTIPLEXER_SWITCHTYPE = "multiplexer.switchType";
-        public const string MULTIPLEXER_SWITCHTIMEOUT = "multiplexer.switchTimeout";
         public const string P2P_PREFERENCE = "p2p.preference";
     }
 
